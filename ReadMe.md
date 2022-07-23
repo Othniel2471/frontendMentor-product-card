@@ -24,8 +24,8 @@ A simple static page site that i developed with pure html and css, it's a produc
 this is a screenshot of my solution
 
 ### Links
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/Othniel2471/frontendMentor-product-card](https://github.com/Othniel2471/frontendMentor-product-card)
+- Live Site URL: [https://whimsical-chaja-e6df4e.netlify.app/](https://whimsical-chaja-e6df4e.netlify.app/)
 
 ## My process
 - Semantic HTML5 markup
