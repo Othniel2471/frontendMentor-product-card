@@ -108,7 +108,7 @@ body{
 /* media queries */
 @media(max-width: 426px ){
     .container{
-        margin-top: -7rem;
+        margin-top: -8rem;
         margin-left: 1rem;
         flex-direction: column;
     }
